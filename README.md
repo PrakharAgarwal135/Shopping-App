@@ -1,7 +1,5 @@
 <h1>Shopping App (Practice Project)</h1>
 
----
-
 
 <h3>Technologies Used:</h3>
 
