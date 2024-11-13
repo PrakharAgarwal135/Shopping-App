@@ -1,3 +1,18 @@
+<h1>Shopping App (Practice Project)</h1>
+
+---
+
+
+<h3>Technologies Used:</h3>
+
+-  **React**: JavaScript library for building user interfaces.
+-  **Redux**: Library for managing global application state.
+-  **Tailwind CSS**:  Open-source CSS framework.
+-  **React Toast**:  Allows you to add notifications to your app with ease.
+  
+---
+
+
 <h3>Screenshots:</h3>
 
 <div>
