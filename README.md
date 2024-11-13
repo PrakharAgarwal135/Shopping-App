@@ -13,3 +13,12 @@
     <h5>Cart Page</h5>
     <img src="https://github.com/PrakharAgarwal135/Shopping-App/blob/main/public/readmess/Screenshot%202024-11-12%20161046.png">
 </div>
+
+---
+
+<h3>How to run:</h3>
+
+**Type the following command in terminal while in the root directory**
+
+   ```bash
+   npm run dev
